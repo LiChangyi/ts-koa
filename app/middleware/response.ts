@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-19 00:07:58
- * @LastEditTime: 2020-07-24 20:41:29
- * @Description: 消息体拦截中间件
- */
-
 import { Context } from 'koa';
 import response from '../utils/response';
 import { RESPONSE_CODE_MAP } from '../common/const';

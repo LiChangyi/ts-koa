@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-19 22:41:29
- * @LastEditTime: 2020-07-19 22:57:28
- * @Description: mongodb 数据库连接 & model 绑定
- */
-
 import mongoose from 'mongoose';
 
 import config from '../../config';

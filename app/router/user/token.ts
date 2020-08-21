@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-19 23:36:55
- * @LastEditTime: 2020-07-24 21:06:29
- * @Description: 获取登录 token
- */
-
 import { Context } from 'koa';
 
 import { tokenPayload } from './paramsValidate';

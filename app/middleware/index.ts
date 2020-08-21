@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-18 22:54:24
- * @LastEditTime: 2020-07-19 22:40:13
- * @Description: 中间件的基础处理，根据洋葱模型，函数的加载顺序会影响整个流程
- */
-
 import { TypeApp } from 'koa';
 import koaBody from 'koa-body';
 

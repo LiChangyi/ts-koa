@@ -1,9 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-19 23:31:00
- * @LastEditTime: 2020-07-24 21:01:43
- * @Description: 一些与业务无关的静态函数
- */
 import { createHash } from 'crypto';
 import jwt from 'jsonwebtoken';
 

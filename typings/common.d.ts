@@ -1,9 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-18 22:01:39
- * @LastEditTime: 2020-07-24 21:01:02
- * @Description:
- */
 import { Context } from 'koa';
 import { ObjectSchema } from 'joi';
 

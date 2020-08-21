@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-19 20:17:04
- * @LastEditTime: 2020-07-24 17:33:53
- * @Description: User collection 定义
- */
-
 import { Schema, model } from 'mongoose';
 import { md5 } from '../common/func';
 

@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-24 20:41:59
- * @LastEditTime: 2020-07-24 21:05:31
- * @Description: 校验中间件件，参数 & 权限
- */
-
 import _ from 'lodash';
 import { Context } from 'koa';
 import { ValidationError } from 'joi';

@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-18 23:10:39
- * @LastEditTime: 2020-07-24 20:36:43
- * @Description: 统计接收到的请求信息
- */
-
 import { Context } from 'koa';
 import { NO_LOG_INTERFACE_LIST } from '../common/const';
 

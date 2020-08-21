@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-24 20:41:59
- * @LastEditTime: 2020-07-24 21:08:59
- * @Description: 获取用户个人信息接口
- */
-
 import { Context } from 'koa';
 
 const routerConfig: IRouteConfig = {

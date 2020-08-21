@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-18 23:39:44
- * @LastEditTime: 2020-07-19 12:50:14
- * @Description: response 消息体格式封装
- */
-
 import { Context } from 'koa';
 
 export default {

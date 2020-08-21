@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-19 14:29:23
- * @LastEditTime: 2020-07-19 23:45:38
- * @Description: 此文件存放，当前目录接口所需要用的参数解析规则
- */
-
 import joi from 'joi';
 
 const username = joi.string()

@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-19 12:58:40
- * @LastEditTime: 2020-07-24 17:30:00
- * @Description: 用户注册接口
- */
-
 import { Context } from 'koa';
 
 import { addPayload } from './paramsValidate';

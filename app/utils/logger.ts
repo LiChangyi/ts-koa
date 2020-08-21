@@ -1,10 +1,3 @@
-/*
- * @Author: licy
- * @Date: 2020-07-18 19:11:02
- * @LastEditTime: 2020-07-18 22:08:38
- * @Description: 日志工具 *.info 文件保存所有日志， *.error 文件只保存 error 日志
- */
-
 import log4js from 'log4js';
 import path from 'path';
 import fs from 'fs';
